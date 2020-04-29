@@ -1,0 +1,10 @@
+C:\Users\Brian\source\repos\Useless Button\Useless Button\bin\Debug\Useless Button.exe.config
+C:\Users\Brian\source\repos\Useless Button\Useless Button\bin\Debug\Useless Button.exe
+C:\Users\Brian\source\repos\Useless Button\Useless Button\bin\Debug\Useless Button.pdb
+C:\Users\Brian\source\repos\Useless Button\Useless Button\obj\Debug\Useless Button.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Useless Button\Useless Button\obj\Debug\Useless_Button.Form1.resources
+C:\Users\Brian\source\repos\Useless Button\Useless Button\obj\Debug\Useless_Button.Properties.Resources.resources
+C:\Users\Brian\source\repos\Useless Button\Useless Button\obj\Debug\Useless Button.csproj.GenerateResource.cache
+C:\Users\Brian\source\repos\Useless Button\Useless Button\obj\Debug\Useless Button.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Useless Button\Useless Button\obj\Debug\Useless Button.exe
+C:\Users\Brian\source\repos\Useless Button\Useless Button\obj\Debug\Useless Button.pdb
